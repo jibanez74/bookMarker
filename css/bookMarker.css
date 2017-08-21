@@ -1,0 +1,34 @@
+html, body {
+    height: 100%;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizelegibility;
+    font: 14px/1.5 arial;
+}
+
+.jumbotron {
+    margin-top: 0;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+}
+
+.jumbotron h1 {
+    font-weight: bold;
+}
+
+.jumbotron p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+form {
+    padding: 10px;
+}
+
+form .btn {
+    margin-top: 20px;
+}
+
+footer {
+    margin-top: 60px;
+    padding: 20px;
+}
